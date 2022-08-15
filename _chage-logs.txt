@@ -1,0 +1,20 @@
+-> August 08, 2022:-
+-  routes/web.php
+-  app/Helpers/Helpers.php
+-  app/Http/Controllers/Frontend/FrontendController.php
+-  app/Models/Store.php
+-  app/Models/Category.php
+-  resources/views/order_now.blade.php
+-  resources/views/cart.blade.php
+-  resources/views/checkout.blade.php
+-  created migration stores in database/migrations
+-  created store_id in products table.
+
+-> August 13, 2022 (Status: Not Pushed):-
+-  routes/web.php
+-  resources/views/single_product.blade.php
+-  resources/views/checkout.blade.php
+-  app/Http/Controllers/Frontend/CartController.php
+-  app/Http/Controllers/Frontend/OrderController.php
+-  created migration orders in database/migrations
+-  app/Models/Order.php
